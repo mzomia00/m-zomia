@@ -1,4 +1,4 @@
-# m-zomia
+# μ-zomia
   
 ![m-zomia_head](https://user-images.githubusercontent.com/87135383/127441601-32075f68-d081-4ceb-9e26-e5aadfe151ae.jpg)
 
