@@ -1,5 +1,12 @@
 # μ-zomia
-  
+<br>
+<br>
+README 日本語<br>
+https://github.com/mzomia00/m-zomia/blob/main/README_JA.md
+<br>
+<br>
+<br>
+
 ![m-zomia_head](https://user-images.githubusercontent.com/87135383/127441601-32075f68-d081-4ceb-9e26-e5aadfe151ae.jpg)
 
 # "Music x Web3.0 x Dev Protocol x Community".
