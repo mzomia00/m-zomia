@@ -17,7 +17,7 @@ However, due to covid-19, music concerts, live performances, and festivals, wher
 
 In such a situation, μ-zomia will provide a way for the fan community to support artists on a "long-term" basis, rather than the "short-term" support that has been provided in the past.
 
-This is also a proposal for sustainable artist careers, whether for major label artists or independent artists.
+This is also a proposal for all artists, whether major or independent, to continue a sustainable artist career.
 
 In addition, with the exception of a handful of artists who have a stable income (for example, those who can sell music under their own name), it is difficult for the sound engineers, track makers, and performers who support the work behind the scenes to earn income under their own names.
 
