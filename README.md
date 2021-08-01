@@ -2,126 +2,126 @@
   
 ![m-zomia_head](https://user-images.githubusercontent.com/87135383/127441601-32075f68-d081-4ceb-9e26-e5aadfe151ae.jpg)
 
-## “ 音楽 × Web3.0 × Dev Protocol × コミュニティ”  <br>
+# "Music x Web3.0 x Dev Protocol x Community".
 
-<br>
-これまでも「音楽アーティスト（作曲家・作詞家・音楽家・演奏者・歌手・トラックメーカー・<br>
-サウンドエンジニア・パフォーマーなど）」をファンが支援する方法は沢山ありました。<br>
-<br>
-音楽ストリーミングサービスでの視聴、YouTubeなどでの動画視聴、ダウンロード / CD購入、<br>
-ライブへの参加、投げ銭、クラウドファンディング、ファンクラブ、物販などです。<br>
-<br>
-しかし、covid-19 の影響で、人々が集まる音楽会、コンサート、ライブ、フェスは壊滅的な状態に陥り、<br>
-そこに収入源の重きを置いていたアーティストやアーティストの活動に関わる音楽従事者は苦慮している状況です。<br>
-<br>
-そんな中、μ-zomiaではこれまでのアーティスト支援にある「短期的」な支え方ではなく「長期的」に<br>
-ファンコミュニティがアーティストを支えていく方法を提供していきます。<br>
-<br>
-これはメジャーレーベルアーティストやインディペンデントアーティストを問わず<br>
-サスティナブルなアーティストキャリアを続けるための提案でもあります。<br>
-<br>
+There are many ways for fans to support music artists (composers, lyricists, musicians, singers, track makers, sound engineers, performers, etc.), such as listening to music streaming services, watching videos on YouTube, downloading / buying CDs, attending live performances, donating money, crowdfunding, fan clubs, and selling goods.
 
-加えて、収入が安定している一握りのアーティスト（例えば「自身の名前」で楽曲を販売できるアーティスト）を<br>
-除いた場合、その作品を影で支えるサウンドエンジニア、トラックメーカー、演奏家などは個人の名前で収入を<br>
-得ることが難しい現状もあります。<br>
-<br>
+However, due to covid-19, music concerts, live performances, and festivals, where people gather, have been devastated, and the artists and music professionals involved in the artists' activities - who used to rely on them as a source of income - are now struggling.
 
-μ-zomia は上記のような問題を解決すべく音楽にまつわるアーティストすべての人達を対象とし、等しく支援を<br>
-受けることができるプラットフォームです。<br>
-<br>
-この実現のため、μ-zomiaはブロックチェーンテクノロジーの[Dev Protocol](https://devprotocol.xyz/)を活用します。<br>
-<br>
+In such a situation, μ-zomia will provide a way for the fan community to support artists on a "long-term" basis, rather than the "short-term" support that has been provided in the past.
 
-Dev Protocol の「ステーキング」機能は、暗号資産「DEVトークン」を「支援者（ファン）が、支援される人<br>
-（音楽アーティスト）に預けること」で、双方にリワード（利益）がもたらされます。<br>
-<br>
-上記の仕組みは、既にOSS（オープンソースソフトウェア）支援の「[Stakes.social](https://stakes.social/)」で<br>
-運用されており、寄付とは異なるステーキングだけで、最大8,000万円弱の支援を受けているOSSも現れています。<br>
-<br>
-我々μ-zomiaは、この対象を「音楽に携わる人」へと変え、ファンコミュニティが共生しながらアーティストを支える。<br>
-そんな支援の新たなプラットフォーム＆コミュニティを提供していきます。<br>
-<br>
-単体の楽曲や、単体の作品、単体の権利、ではなく音楽に携わる「人」そのものを支援するプラットフォームを提供していきます。<br>
-<br>
-<br>
+This is also a proposal for sustainable artist careers, whether for major label artists or independent artists.
+
+In addition, with the exception of a handful of artists who have a stable income (for example, those who can sell music under their own name), it is difficult for the sound engineers, track makers, and performers who support the work behind the scenes to earn income under their own names.
+
+  
+  
+
+μ-zomia is a platform for all artists involved in music to solve the above problems and receive equal support.
+
+  
+
+To achieve this, μ-zomia will utilize the [Dev Protocol](https://devprotocol.xyz/) blockchain technology.
+
+  
+
+The Dev Protocol's "staking" function allows supporters (fans) to deposit DEV tokens, a cryptographic asset, to the people being supported (music artists), and both parties will receive rewards.
+
+  
+
+The above system is already in operation at "[Stakes.social](https://stakes.social/)", an OSS (Open Source Software) support site, and some OSS have received up to 80 million yen in support through staking alone, which is different from donations.
+
+  
+
+We, μ-zomia, have changed the target to "people who are involved in music", and the fan community will support the artists in a symbiotic way. We will provide a new platform and community for such support.
+
+  
+
+We designed a platform that supports not just individual songs, individual works, or individual rights, but the "people" involved in music itself.
  
 ![m-zomia_01](https://user-images.githubusercontent.com/87135383/127442569-1e0f2076-035a-49b4-bf1d-08a652f3d6bc.jpg)
 
 
-## μ-zomiaの活動内容
+## Activities of μ-zomia
 
-### μ-zomiaの開発
-　→Dev Protocol を活用したアーティスト支援プラットフォームの構築
-　→アーティスト登録希望者に対する承認機能の実装（外部OAuthによる本人確認）
+### Development of μ-zomia
+ - Construction of an artist support platform using the Dev Protocol
+ - Implementation of an approval function for those who wish to register as artists (identity verification using external OAuth)
+
  
-### コミュニティの立ち上げと運営
+### Launching and managing communities
+Creation and operation of a community site for music creators
 
-音楽制作者のコミュニティサイトの作成と運営
+### Expandability outside of OSS
 
-### OSS以外での拡張性について
-OSSとなるμ-zomia では、基本的な機能のみの提供を考えていますが、我々自身がこのOSSを使用してプラットフォームと<br>
-コミュニティを運営していきます。
+In μ-zomia, an OSS project, we are considering providing only basic functions, but we ourselves will use this OSS to manage the platform and community.
 
-その中で「Pull Up」という仕組みを実装していきます。
+In the process, we will implement a system called "Pull Up".
 
-Pull Upとは
-Pull Upはサポートしてもらった音楽アーティストが特定の「シェア」を行うことで、自身の報酬引出し時の手数料を節約<br>
-できる仕組みです。
+**What is Pull Up?**
 
-特定のシェア・・・Thanks Share と　Knowledge GiveAway
+Pull Up is a system that allows supported music artists to save fees when withdrawing their own rewards by making specific "shares".
 
-「Thanks Share」は、ステーキングの状況をハッシュタグ付き画像でSNS上でシェアする行動
-「Knowledge GiveAway」 は、自身の知識を動画や記事としてアウトプットしてもらう行動  
+**Specific shares: Thanks Share and Knowledge GiveAway**
 
-※アーティストは支援者からステーキングしてもらうことで報酬を受け取ることができますが、報酬を引き出す際に一定の手数料を<br>
-設けようと考えています。しかし「Pull Up」を行うことでこの手数料を低く抑えることが出来る仕組みです。
+ - "Thanks Share" is the act of sharing the status of staking on SNS with images with hashtags.
+ - "Knowledge GiveAway" is an action to ask people to output their knowledge as a video or article.
 
-## μ-zomiaの世界観　
+Artists can receive rewards from their supporters for staking, but we are planning to set a certain fee for withdrawing the rewards. However, we are planning to set a certain fee for withdrawing the rewards. However, "Pull Up" is a system that can keep this fee low.
 
-音楽に携わるアーティスト活動は多岐にわたります。それは芸術活動であるがゆえの素晴らしさでありつつ、公平性や透明性とは<br>
-一線を敷いたものとなってしまっていることもまた事実です。
+## The world view of μ-zomia ##
 
-μ-zomiaという名称は、音楽を意味する「Music」の頭文字「M（ミューとも読む。同じ音で「μ」という文字であり単語が存在する）」と、<br>
-国境を持たぬ人々と言われる「zomia」をかけ合わせて作った造語です。
+Artists involved in music are involved in a wide range of activities. While this is a wonderful artistic activity, it is also a fact that there is a line between fairness and transparency.
 
-
-「音楽の国境を持たぬ人たち」「既存の枠を超えて、自分たちで新たな国家を形成する人たち」。
-
-その様な存在を表す言葉が「μ-zomia」です。  
   
-**- 「コントロールを取り戻す手段を、音楽クリエイターに解放する」**
 
-Web2.0の時代のプレーヤーたちは、以下にグロースし情報をコントロールするか？を目的に成長してきましたが、OSSの思想が消えないように、<br>
-音楽クリエイターのDIYの思想も消えません。むしろ、Web3.0の時代は個々のクリエイターにとって、ダイレクトに世界のネットワークと<br>
-繋がる機会に溢れています。
+The name "μ-zomia" is derived from the first letter of the word "Music," "M" (also read as "Mu"). The name "μ-zomia" was coined by combining the first letter of the word "music," "M," and the word "zomia," which means people without borders.
 
-ミューゾミアのチームは、テクノロジーの世界と音楽の世界の双方を視てきたチームです。親友、友人、知人には沢山の音楽クリエイターがいて、<br>
-日々音楽に触れています。
+  
+  
 
-こういった環境の中で、僕らが音楽と音楽に携わる人達に対し「最大限のサポート」をどのように行っていくかを考えた結果、Web3.0で<br>
-発展しつつある新たなネットワークのあり方を音楽クリエイター向けにアレンジし提供する事に決めました。
+I coined the word by combining "zomia," which means "people without borders," and "people without borders in music," and "people who transcend existing boundaries to form a new nation on their own.
 
-## なぜDev Protocol なのか？  
+  
 
-μ-zomia の世界観を実現するために、Dev Protocol は理想的な存在でした。
-非中央集権型のプロトコル上で、誰かが得た利益を元手に、OSSを支援出来る仕組みを、既に実現しています。
+The term "μ-zomia" is used to describe this kind of existence.
 
-加えて、Dev Protocol のチームのあり方は、高い精度でWeb3.0を実現しており、これからのチームのあり方として理想の形でした。
+  
+### "Freeing up the means for music creators to regain control. ###
 
-彼らの「技術」「チーム」「ビジョン」の全てに賛同し、Dev Protocol を活用する判断となりました。
+In the age of Web 2.0, players have grown with the goal of "how to grow and control information". However, just as the idea of OSS has not disappeared, the idea of DIY among music creators has not disappeared either. Rather, the Web 3.0 era is full of opportunities for individual creators to connect directly with the global network.
 
-![m-zomia_02](https://user-images.githubusercontent.com/87135383/127444187-c73bf40b-6961-4dc5-b022-4d5d5af32df2.jpg)
+  
 
-## 今後のμ-zomiaの開発予定機能
+The Museomia team is a team that has seen both the world of technology and the world of music. We have a lot of music creators as our best friends, friends, and acquaintances, and we are exposed to music every day.
 
-### 翻訳機能の実装
-　先行して英語、次に英語⇔日本語の自動翻訳機能コミュニティサイトの実装します
- 
-### DEVで調達した資金の使い道
+  
 
-資金の使い道は基本的には下記に充てていきます 　
-①開発費用 　
-②人的リソースの確保 （サポート人材含む）
-③余剰利益の音楽アーティストへの還元（Devで還元 ※μ-zomiaがステーキングします）
+In this environment, we thought about how we can provide the best support for music and people involved in music, and decided to arrange and provide the new network that is developing in Web 3.0 for music creators.
 
+## Why the Dev Protocol? ##
 
+In order to realize the world view of μ-zomia, the Dev Protocol was ideal.
+
+We have already realized a system that allows us to support OSS based on someone else's profit on a decentralized protocol.
+
+  
+
+In addition, the way the Dev Protocol team works is highly accurate in realizing Web 3.0, which is the ideal form of a team for the future.
+
+  
+
+We agreed with all of their "technology," "team," and "vision," and made the decision to use Dev Protocol.
+
+## Future development plans for μ-zomia ##
+
+Implementation of the translation function
+We will first implement English, and then we will implement an automatic translation function between English and Japanese for the community site.
+
+## How we will use the funds raised by DEV ##
+
+We will basically use the funds for the following 　
+
+1. Development costs 　
+2. Securing human resources (including support personnel)
+3. Returning surplus profits to music artists (via Dev *μ-zomia will be staking)
