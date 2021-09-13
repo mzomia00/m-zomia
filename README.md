@@ -53,7 +53,9 @@ We designed a platform that supports not just individual songs, individual works
 
 ### Development of μ-zomia
  - Construction of an artist support platform using the Dev Protocol
- - Implementation of an approval function for those who wish to register as artists (identity verification using external OAuth)
+ - Implementation of an approval function for those who wish to register as artists (identity verification using external OAuth)<br>
+We will use Youtube accounts to authenticate artists who wish to register.<br>
+This will allow not only artists who have released music under their own name, but also people from various industries involved in music production to obtain staking.
 
  
 ### Launching and managing communities
